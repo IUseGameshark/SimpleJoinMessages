@@ -1,0 +1,5 @@
+name: SimpleJoinMessages
+version: 1.0
+author: v240
+api-version: 1.16
+main: me.v240.SimpleJoinMessages.main
